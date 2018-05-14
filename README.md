@@ -15,7 +15,7 @@ Tree
 |  --->DataSource  |  1  |    |
 |  ---->SourceDescription  |  1  |    |
 |  -->Parties  |  1  |    |
-|  -->.Party  |  3  |    |
+|  --->Party  |  3  |    |
 |  -->Contests  |  1  |    |
 |  --->Contest  |  564  |    |
 |  ---->Choice  |  357  |    |
