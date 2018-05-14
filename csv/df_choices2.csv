@@ -1,0 +1,347 @@
+contestID,choiceID,type,name,party,dispOrder,cont_ch
+181,100,CD,Bruce Rauner Evelyn Sanguinetti,1,100,181_100
+181,105,CD,Jeanne Ives Rich Morthland,1,105,181_105
+182,110,CD,JB Pritzker Juliana Stratton,2,110,182_110
+182,115,CD,Chris Kennedy Ra Joy,2,115,182_115
+182,120,CD,Daniel Biss Litesa E. Wallace,2,120,182_120
+182,130,CD,Bob Daiber Jonathan W. Todd,2,130,182_130
+182,135,CD,Tio Hardiman Patricia Avery,2,135,182_135
+182,140,CD,Robert Marshall Dennis Cole,2,140,182_140
+191,145,CD,Erika Harold,1,145,191_145
+191,150,CD,Gary Grasso,1,150,191_150
+192,155,CD,Pat Quinn,2,155,192_155
+192,160,CD,Renato Mariotti,2,160,192_160
+192,165,CD,Scott Drury,2,165,192_165
+192,170,CD,Nancy Rotering,2,170,192_170
+192,175,CD,Kwame Raoul,2,175,192_175
+192,180,CD,Jesse Ruiz,2,180,192_180
+192,185,CD,Sharon Fairley,2,185,192_185
+192,190,CD,Aaron Goldstein,2,190,192_190
+201,195,CD,Jason Helland,1,195,201_195
+202,200,CD,Jesse White,2,200,202_200
+211,210,CD,Darlene Senger,1,210,211_210
+212,215,CD,Susana A. Mendoza,2,215,212_215
+221,220,CD,Jim Dodge,1,220,221_220
+222,225,CD,Michael W. Frerichs,2,225,222_225
+301,370,CD,Peter J. Roskam,1,370,301_370
+302,375,CD,Kelly Mazeski,2,375,302_375
+302,380,CD,Amanda Howland,2,380,302_380
+302,385,CD,Sean Casten,2,385,302_385
+302,390,CD,Jennifer Zordani,2,390,302_390
+302,395,CD,Becky Anderson Wilkins,2,395,302_395
+302,400,CD,Ryan Huffman,2,400,302_400
+302,405,CD,Carole Cheney,2,405,302_405
+321,435,CD,"Jitendra ""JD"" Diganvker",1,435,321_435
+322,445,CD,Raja Krishnamoorthi,2,445,322_445
+351,495,CD,Nick Stella,1,495,351_495
+351,500,CD,"Constant G. ""Connor"" Vlakancic",1,500,351_500
+352,505,CD,Bill Foster,2,505,352_505
+381,570,CD,"Randall M. ""Randy"" Hultgren",1,570,381_570
+382,575,CD,Victor Swanson,2,575,382_575
+382,580,CD,John J. Hosta,2,580,382_580
+382,585,CD,Matthew Brolley,2,585,382_585
+382,590,CD,George Weber,2,590,382_590
+382,595,CD,Lauren Underwood,2,595,382_595
+382,600,CD,Jim Walz,2,600,382_600
+382,605,CD,Daniel Roldan-Johnson,2,605,382_605
+660,790,CD,Nancy Shepherdson,2,790,660_790
+661,795,CD,Patrick Watson,2,795,661_795
+661,800,CD,Jesse Medina Jr.,2,800,661_800
+661,805,CD,Greg Hose,2,805,661_805
+664,830,CD,Cristina Castro,2,830,664_830
+665,840,CD,Michael C. Cudzik,2,840,665_840
+670,870,CD,Maggie Wunderly,2,870,670_870
+670,875,CD,Julia Kennedy Beckman,2,875,670_875
+671,880,CD,"Kevin ""Duffy"" Blackburn",2,880,671_880
+671,885,CD,Juan R. Thomas,2,885,671_885
+676,915,CD,Kristina Zahorik,2,915,676_915
+676,920,CD,Alison Squires,2,920,676_920
+677,925,CD,Mark Guethle,2,925,677_925
+677,930,CD,Peter Janko,2,930,677_930
+1041,1155,CD,Dan McConchie,1,1155,1041_1155
+1042,1160,CD,Tom Georges,2,1160,1042_1160
+1111,1215,CD,Karen McConnaughay,1,1215,1111_1215
+1112,1220,CD,Nancy Zettler,2,1220,1112_1220
+1131,1225,CD,Dave Syverson,1,1225,1131_1225
+1202,1265,CD,Linda Holmes,2,1265,1202_1265
+1801,1860,CD,Andrew R. Cuming,1,1860,1801_1860
+1802,1870,CD,Anna Moeller,2,1870,1802_1870
+1861,1940,CD,Nic Zito,1,1940,1861_1940
+1861,1945,CD,Tonia Jane Khouri,1,1945,1861_1945
+1862,1950,CD,Karina Villa,2,1950,1862_1950
+1871,1955,CD,Keith R. Wheeler,1,1955,1871_1955
+1872,1960,CD,James G. Leslie,2,1960,1872_1960
+1891,1970,CD,David McSweeney,1,1970,1891_1970
+2021,2115,CD,Dan Ugaste,1,2115,2021_2115
+2022,2120,CD,Richard Johnson,2,2120,2022_2120
+2031,2125,CD,Allen Skillicorn,1,2125,2031_2125
+2071,2180,CD,Jeff Keicher,1,2180,2071_2180
+2072,2185,CD,Paul Stoddard,2,2185,2072_2185
+2072,2190,CD,Howard Solomon,2,2190,2072_2190
+2202,2310,CD,Linda Chapa LaVia,2,2310,2202_2310
+2211,2315,CD,Patty Smith,1,2315,2211_2315
+2212,2320,CD,Stephanie A. Kifowit,2,2320,2212_2320
+2851,2810,CD,Christopher D. Mehochko,1,2810,2851_2810
+3006,1,CD,"Stanton J. ""Stan"" Bond",1,1,3006_1
+3006,2,CD,"John A. ""Jack"" Cunningham",1,2,3006_2
+3007,1,CD,"Nicolas G. ""Nico"" Jimenez",2,1,3007_1
+3031,1,CD,Donald E. Kramer,1,1,3031_1
+3031,2,CD,Kevin Tindall,1,2,3031_2
+3032,1,CD,Ron Hain,2,1,3032_1
+3032,2,CD,"Willie M. Mayes, Sr.",2,2,3032_2
+3036,1,CD,David J. Rickert,1,1,3036_1
+3066,1,CD,Bill Lenert,1,1,3066_1
+3067,1,CD,Sandra A. King,2,1,3067_1
+3077,1,CD,Brian Gravenhorst,2,1,3077_1
+3077,2,CD,Monica Silva,2,2,3077_2
+3086,1,CD,Tom Koppie,1,1,3086_1
+3086,2,CD,Connie Von Keudell,1,2,3086_2
+3096,1,CD,John P. Martin,1,1,3096_1
+3097,1,CD,Jody M. Kanikula,2,1,3097_1
+3106,1,CD,Steve Weber,1,1,3106_1
+3106,2,CD,Philip Lewis,1,2,3106_2
+3116,1,CD,Barbara Wojnicki,1,1,3116_1
+3116,2,CD,Austin P. Lawler,1,2,3116_2
+3117,1,CD,Gerald M. Palmere,2,1,3117_1
+3117,2,CD,Lucas Strom,2,2,3117_2
+3132,1,CD,Janice Bennett,2,1,3132_1
+3132,2,CD,Deborah Allan,2,2,3132_2
+3141,1,CD,Kurt Robert Kojzarek,1,1,3141_1
+3142,1,CD,Thomas P. Gibbons,2,1,3142_1
+3142,2,CD,John Jack Shales,2,2,3142_2
+3142,3,CD,"Mohammad ""Mo"" Iqbal",2,3,3142_3
+3151,1,CD,Cliff Surges,1,1,3151_1
+3152,1,CD,Tara Jacobsen,2,1,3152_1
+3161,1,CD,Jim Patrician,1,1,3161_1
+3161,2,CD,Jonathan E. Radke,1,2,3161_2
+3162,1,CD,Christopher W. Kious,2,1,3162_1
+4021,3760,CD,Elizabeth Flood,1,3760,4021_3760
+4021,3765,CD,"Thomas M. (""Tom"") Hartwell",1,3765,4021_3765
+4021,3770,CD,David P. Kliment,1,3770,4021_3770
+4022,3775,CD,Michael J. Noland,2,3775,4022_3775
+4022,3780,CD,Lark Cowart,2,3780,4022_3780
+4452,3750,CD,Rene Cruz,2,3750,4452_3750
+4571,3755,CD,Clint Hull,1,3755,4571_3755
+7369,1,CD,Patricia A. Dal Santo,1,1,7369_1
+7400,1,CD,Amanda Christensen,2,1,7400_1
+7499,1,CD,Roycealee J. Wood,1,1,7499_1
+7529,1,CD,Leslie Schermerhorn,1,1,7529_1
+8001,1,CD,Yes,,1,8001_1
+8001,2,CD,No,,2,8001_2
+8002,1,CD,Yes,,1,8002_1
+8002,2,CD,No,,2,8002_2
+8003,1,CD,Yes,,1,8003_1
+8003,2,CD,No,,2,8003_2
+8004,1,CD,Yes,,1,8004_1
+8004,2,CD,No,,2,8004_2
+8005,1,CD,Yes,,1,8005_1
+8005,2,CD,No,,2,8005_2
+8006,1,CD,Yes,,1,8006_1
+8006,2,CD,No,,2,8006_2
+8007,1,CD,Yes,,1,8007_1
+8007,2,CD,No,,2,8007_2
+8008,1,CD,Yes,,1,8008_1
+8008,2,CD,No,,2,8008_2
+8009,1,CD,Yes,,1,8009_1
+8009,2,CD,No,,2,8009_2
+8010,1,CD,Yes,,1,8010_1
+8010,2,CD,No,,2,8010_2
+8011,1,CD,Yes,,1,8011_1
+8011,2,CD,No,,2,8011_2
+8012,1,CD,Yes,,1,8012_1
+8012,2,CD,No,,2,8012_2
+8013,1,CD,Yes,,1,8013_1
+8013,2,CD,No,,2,8013_2
+8014,1,CD,Yes,,1,8014_1
+8014,2,CD,No,,2,8014_2
+9007,1,CD,Linda Pasetti-Olson,1,1,9007_1
+9010,1,CD,Rigoberto Mendez,2,1,9010_1
+9011,1,CD,Max L. Ludwig,1,1,9011_1
+9025,1,CD,Sal Abbate,1,1,9025_1
+9040,1,CD,Brian Frechmann,2,1,9040_1
+9042,1,WI,No Candidate Filed,,1,9042_1
+9044,1,CD,Howard R. Katz,2,1,9044_1
+9046,1,CD,Jody M. Kanikula,2,1,9046_1
+9054,1,CD,Diane Christine Kertz,2,1,9054_1
+9056,1,CD,Tammy L. Caltagirone,2,1,9056_1
+9059,1,CD,Ellen Nottke,1,1,9059_1
+9065,1,CD,Sylvia S. Keppel,1,1,9065_1
+9067,1,CD,Judy Fanizza,1,1,9067_1
+9068,1,CD,John Dodo,2,1,9068_1
+9072,1,CD,Howard S. Miller,2,1,9072_1
+9076,1,CD,Michael Lowery,2,1,9076_1
+9080,1,CD,Mark Guethle,2,1,9080_1
+9080,2,CD,Adrien Aaron,2,2,9080_2
+9091,1,CD,David L. Anderson,1,1,9091_1
+9092,1,CD,Angela M. Price,2,1,9092_1
+9093,1,CD,Rodney L. Feece,1,1,9093_1
+9095,1,CD,Dennis C. Ryan,1,1,9095_1
+9095,2,CD,Jeffrey D. Walter,1,2,9095_2
+9096,1,CD,Franklin D. Klaus,2,1,9096_1
+9097,1,CD,"Andrew E. ""Drew"" Frasz",1,1,9097_1
+9098,1,CD,Heidi DeMarco,2,1,9098_1
+9099,1,CD,Vicki S. Danklefsen,1,1,9099_1
+9100,1,CD,Megan Bartlett,2,1,9100_1
+9101,1,CD,Michael D. Haddad,1,1,9101_1
+9113,1,CD,Terry Hunt,1,1,9113_1
+9130,1,CD,"Nicolas G. ""Nico"" Jimenez",2,1,9130_1
+9131,1,CD,Kathryn E. Bolger,1,1,9131_1
+9132,1,CD,Charles Cappell,2,1,9132_1
+9133,1,CD,Alan D. Rottmann,1,1,9133_1
+9135,1,CD,Richard Johansen,1,1,9135_1
+9137,1,CD,Mike Carlson,1,1,9137_1
+9139,1,CD,William J. Paskey Jr.,1,1,9139_1
+9143,1,CD,Thomas G. Mollenhauer,1,1,9143_1
+9145,1,CD,Cynthia S. Galloway,1,1,9145_1
+9147,1,CD,Barbara Wojnicki,1,1,9147_1
+9149,1,CD,Nicholas Sam Gallucci,1,1,9149_1
+9160,1,CD,Mary Warner,2,1,9160_1
+9166,1,CD,Joseph C. Wasner,2,1,9166_1
+9171,1,CD,William C. Zelsdorf,1,1,9171_1
+9172,1,CD,Joseph R. Haimann,2,1,9172_1
+9173,1,CD,David W. Williams,1,1,9173_1
+9177,1,CD,Margaret Scalfaro,1,1,9177_1
+9179,1,CD,John F. Marsala,1,1,9179_1
+9181,1,CD,Allen Skillicorn,1,1,9181_1
+9183,1,CD,Virginia Gregg,1,1,9183_1
+9187,1,CD,Jonathan E. Radke,1,1,9187_1
+9189,1,CD,Mary Kay Bocain,1,1,9189_1
+9193,1,CD,"Robert ""Cowboy"" Krebiehl",1,1,9193_1
+9194,1,CD,Jacob D. Serafini,2,1,9194_1
+9198,1,CD,Paul J. Setze,2,1,9198_1
+9199,1,CD,Michael J. Tennis,1,1,9199_1
+9206,1,CD,Cathy Gyiraszin,2,1,9206_1
+9207,1,CD,Chris Kempf,1,1,9207_1
+9213,1,CD,Susan L. Ejzak,1,1,9213_1
+9214,1,CD,Christine Birkett,2,1,9214_1
+9219,1,CD,Michael Bielak,1,1,9219_1
+9222,1,CD,Jim Malone,2,1,9222_1
+9223,1,CD,Michael Rogers,1,1,9223_1
+9226,1,CD,Nancy Zettler,2,1,9226_1
+9228,1,CD,Christopher W. Kious,2,1,9228_1
+9240,1,CD,"Joseph P. Mc Keown, III",2,1,9240_1
+9241,1,CD,"Edward ""Ed"" Southwell",1,1,9241_1
+9242,1,WI,No Candidate Filed,,1,9242_1
+9244,1,CD,Robert D. Bedard,2,1,9244_1
+9244,2,CD,Lisa Madrid,2,2,9244_2
+9246,1,CD,Donna J. Griffin-Lego,2,1,9246_1
+9247,1,CD,Jason Dusenberry,1,1,9247_1
+9248,1,CD,Edward E. Hanson,2,1,9248_1
+9250,1,CD,Kyle Bolyard,2,1,9250_1
+9253,1,CD,Douglas J. Scheflow,1,1,9253_1
+9254,1,CD,Sandra Kaptain,2,1,9254_1
+9255,1,CD,Robert W. Siljestrom,1,1,9255_1
+9257,1,CD,Joy Symonds,1,1,9257_1
+9260,1,CD,"Winfried C. Cooper, Jr",2,1,9260_1
+9264,1,CD,Jean U. Cattron,2,1,9264_1
+9267,1,CD,Vicki Pelock,1,1,9267_1
+9270,1,CD,Candida M. Kyle,2,1,9270_1
+9272,1,CD,Christopher G. Berry,2,1,9272_1
+9273,1,CD,Rich Evans,1,1,9273_1
+9284,1,CD,Susan D. Collins,2,1,9284_1
+9287,1,CD,David L. Thibodeaux,1,1,9287_1
+9287,3,CD,Theodore L. Hartwell,1,3,9287_3
+9289,1,CD,Julie Schmidt,1,1,9289_1
+9291,1,CD,Shane Nowak,1,1,9291_1
+9292,1,CD,Michael A. Rende,2,1,9292_1
+9294,1,CD,"Jose ""Alfredo"" Villalobos",2,1,9294_1
+9295,1,CD,Sean Nolte,1,1,9295_1
+9297,1,CD,Jeffrey A. Meyer,1,1,9297_1
+9299,1,CD,Enoch Essendrop,1,1,9299_1
+9300,1,CD,Julia D. Hut,2,1,9300_1
+9302,1,CD,Franklin F. Ramirez,2,1,9302_1
+9306,1,CD,William Becker,2,1,9306_1
+9308,1,CD,Carl Strathmann,2,1,9308_1
+9312,1,CD,Robert Follman,1,1,9312_1
+9313,1,CD,Clifford J. Olson,2,1,9313_1
+9318,1,CD,Michael J. Kenyon,1,1,9318_1
+9319,1,CD,Arthur Malm,2,1,9319_1
+9321,1,CD,Patrick Gordon,2,1,9321_1
+9322,1,WI,No Candidate Filed,,1,9322_1
+9325,1,CD,Randy Hopp,2,1,9325_1
+9325,2,CD,Kathleen Newcomb,2,2,9325_2
+9327,1,CD,Janice Bennett,2,1,9327_1
+9328,1,CD,George  Bero,1,1,9328_1
+9332,1,CD,David J. Rickert,1,1,9332_1
+9333,1,CD,Willie Clements,2,1,9333_1
+9334,1,CD,"Ronald S. Edelmann, Sr.",1,1,9334_1
+9335,1,CD,Jody Schmeck,2,1,9335_1
+9336,1,CD,Karen A. Dowling,1,1,9336_1
+9339,1,CD,Vincent Rychtanek,2,1,9339_1
+9342,1,CD,Donna M. Van Meter,1,1,9342_1
+9342,2,CD,Romel Rana,1,2,9342_2
+9344,1,CD,James F. Libbe,1,1,9344_1
+9346,1,CD,Todd A. Hartwell,1,1,9346_1
+9347,1,CD,Dennis Dilley,2,1,9347_1
+9349,1,CD,Megan Larson,2,1,9349_1
+9351,1,CD,Lois Ann Swatscheno,2,1,9351_1
+9352,1,CD,Gregory J. Lieser,1,1,9352_1
+9356,1,CD,Nicole Dean-Vallejo,1,1,9356_1
+9357,1,CD,Verner Tepe,2,1,9357_1
+9370,1,CD,Sara Holing,2,1,9370_1
+9377,1,CD,Dan Ugaste,1,1,9377_1
+9378,1,CD,William Koehl,2,1,9378_1
+9380,1,CD,Mark Shumow,2,1,9380_1
+9381,1,WI,No Candidate Filed,,1,9381_1
+9384,1,CD,Victoria Davidson-Bell,2,1,9384_1
+9385,1,CD,Susan B. Dixon,1,1,9385_1
+9386,1,CD,William Malecki,2,1,9386_1
+9387,1,WI,No Candidate Filed,,1,9387_1
+9389,1,CD,Patrick J. Murtaugh,1,1,9389_1
+9390,1,CD,John Kohlstrand,2,1,9390_1
+9391,1,CD,Douglas B. Warlick,1,1,9391_1
+9391,2,CD,Mark Wissing,1,2,9391_2
+9392,1,CD,John Rice,2,1,9392_1
+9398,1,CD,Becky Kruse,2,1,9398_1
+9403,1,WI,No Candidate Filed,,1,9403_1
+9405,1,WI,No Candidate Filed,,1,9405_1
+9420,1,WI,No Candidate Filed,,1,9420_1
+9422,1,CD,Connie Von Keudell,1,1,9422_1
+9424,1,WI,No Candidate Filed,,1,9424_1
+9430,1,CD,Laura M. Pollastrini,1,1,9430_1
+9442,1,CD,Gregory Perko,1,1,9442_1
+9443,1,CD,Carol J. Nightingale,2,1,9443_1
+9444,1,CD,Cherie Hamilton,1,1,9444_1
+9452,1,CD,Gary Daugherty,1,1,9452_1
+9459,1,CD,Nancy  Baron,2,1,9459_1
+9464,1,CD,Christopher Yaeger,1,1,9464_1
+9466,1,CD,Tom  Koppie,1,1,9466_1
+9482,1,CD,John Hoscheit,1,1,9482_1
+9483,1,CD,Sean Baker,2,1,9483_1
+9486,1,CD,Robert T. Gephart,1,1,9486_1
+9488,1,CD,Chris A. Studebaker,1,1,9488_1
+9490,1,CD,David Pietryla,1,1,9490_1
+9494,1,CD,Kenneth C. Shepro,1,1,9494_1
+9495,1,CD,James J. Flanigan,2,1,9495_1
+9496,1,CD,Mark Davoust,1,1,9496_1
+9500,1,CD,Philip Lewis,1,1,9500_1
+9506,1,CD,Nina A. Westhoff,1,1,9506_1
+9508,1,CD,John Arthur Anderson,1,1,9508_1
+9510,1,CD,Mark J. Rake,1,1,9510_1
+9511,1,CD,John H. Perryman,2,1,9511_1
+9512,1,CD,Arthur J. Lemke,1,1,9512_1
+9513,1,CD,Richard Treonis,2,1,9513_1
+9516,1,CD,Anthony L. Catella,1,1,9516_1
+9521,1,CD,Marie M. Powell,2,1,9521_1
+9523,1,CD,Corinne M. Pierog,2,1,9523_1
+9524,1,CD,Christopher J. Margewich,1,1,9524_1
+9527,1,CD,Nadia B. Daley,2,1,9527_1
+9529,1,CD,Stephen Bruesewitz,2,1,9529_1
+9531,1,CD,Linda Robertson,2,1,9531_1
+9532,1,CD,Craig C. Conn,1,1,9532_1
+9534,1,CD,Michael  Hoscheit,1,1,9534_1
+9536,1,CD,Robert A. Kudlicki,1,1,9536_1
+9538,1,CD,Rob Russell,1,1,9538_1
+9539,1,CD,David Stohler,2,1,9539_1
+9542,1,CD,Diane Hemmingsen,1,1,9542_1
+9547,1,CD,William Kevin Bachman,2,1,9547_1
+9562,1,WI,No Candidate Filed,,1,9562_1
+9563,1,CD,Philip A. Silagi,2,1,9563_1
+9564,1,CD,"Stanton J. ""Stan"" Bond",1,1,9564_1
+9566,1,CD,Joseph Thomas Golab,1,1,9566_1
+9568,1,CD,Sean Herron,1,1,9568_1
+9569,1,CD,Amy Hain,2,1,9569_1
+9570,1,CD,Paula A. Lacey,1,1,9570_1
+9571,1,CD,Sandra A. King,2,1,9571_1
+9572,1,CD,Ted A. Koch,1,1,9572_1
+9584,1,CD,David S. Stewart,1,1,9584_1
